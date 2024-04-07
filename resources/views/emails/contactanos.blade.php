@@ -7,8 +7,8 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Correo electrónico</h1>
-    <p>Este es el primer correo con laravel</p>
+    <h1>Correo informativo</h1>
+    <p>Este correo fue enviado con Laravel</p>
 
     <p><strong>Nombre: </strong>{{$data['nombre']}}</p>
     <p><strong>Correo: </strong>{{$data['correo']}}</p>
